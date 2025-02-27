@@ -34,8 +34,8 @@ $sql = "SELECT * FROM PRODUCT;";
 $qryResult = mysqli_query($conn, $sql);
 
 while ($row = mysqli_fetch_assoc($qryResult)) {
-    echo "Shoe No: " . $row["shoeNo"] . " - Type: " . $row["shoeType"] . 
-         " - Price € " . $row["shoePrice"] . " - Brand: " . $row["shoeBrand"] . " <br>";
+    echo "Name: " . $row["Name"] . " - Description: " . $row["Description"] . 
+         " - Price € " . $row["Price"] . " - Quantity: " . $row["Quantity"] . " - Tags: " . $row["tags"] ."<br>";
 }
 
 mysqli_close($conn);
