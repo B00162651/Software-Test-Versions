@@ -1,0 +1,3 @@
+so put software dev folder in the htdocs folder in xampp 
+// searc this link to apache web 
+http://localhost/Software%20dev/index.php

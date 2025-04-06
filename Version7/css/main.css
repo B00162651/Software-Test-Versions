@@ -1,0 +1,30 @@
+/* Ensure the footer stays at the bottom */
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ensure content expands */
+.container {
+    flex: 1;
+    padding: 15px;
+    text-decoration: none;
+}
+
+/* Contact form styling */
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    
+}
+
+/* Button styling */
+button.btn-primary {
+    background-color: blue;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+}
