@@ -1,0 +1,66 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for the product card */
+.product-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+}
+
+/* Product Card Styling */
+.product-card {
+    display: flex;
+    background-color: white;
+    border: 1px solid lightgray;
+    width: 80%;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+/* Image Section */
+.product-image {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.product-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+/* Info Section */
+.product-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+/* Product Title */
+.product-info h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Product Price */
+.product-info span {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0 20px;
+}
+
+/* Product Description */
+.product-info p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}

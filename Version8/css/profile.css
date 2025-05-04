@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Table Styling */
+table {
+    width: 90%;
+    margin: 20px auto;
+}
+
+table thead {
+    background-color: black;
+    color: #fff;
+}
+
+table th, table td {
+    padding: 10px;
+    text-align: left;
+}
+
+p {
+    text-align: center;
+    font-size: 16px;
+    color: #666;
+}
