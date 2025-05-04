@@ -1,0 +1,79 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: auto;
+}
+
+/* Container for the Form */
+form {
+    background-color: white;
+    width: 100%;
+    max-width: 500px;
+    padding: 30px 20px;
+    border: black;
+    border-radius: 8px;
+}
+
+/* Form Header */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 15px;
+    font-size: 18px;
+    border-bottom: 2px solid gray;
+    padding-bottom: 5px;
+}
+
+/* Labels */
+label {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+/* Input Fields */
+input[type="text"] {
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* Error Message */
+p {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+/* Total Price Section */
+h3 {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+/* Submit Button */
+button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 4px;
+    width: 100%;
+    display: block;
+}
+
+button:hover {
+    background-color: #333;
+}

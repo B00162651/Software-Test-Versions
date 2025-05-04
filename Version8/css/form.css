@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background-color: lightgray;
+}
+
+
+.container {
+    background-color: white;
+    width: 100%;
+    max-width: 400px;
+    padding: 20px 30px;
+    border: black ;
+    border-radius: 8px;
+}
+
+.form-signin {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-signin-heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 10px 15px;
+    font-size: 17px;
+    border-radius: 4px;
+}
+
+.button:hover {
+    background-color: #333;
+}
