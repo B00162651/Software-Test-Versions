@@ -23,3 +23,8 @@ https://ie.sportsdirect.com/new-balance-fresh-foam-680-v8-mens-running-shoe-2113
 https://ie.sportsdirect.com/under-armour-flow-velociti-wind-2-running-shoes-mens-212341#colcode=21234140
 https://ie.sportsdirect.com/adidas-supernova-solution-20-running-shoes-212129#colcode=21212903
 https://ie.sportsdirect.com/nike-reactx-pegasus-trail-5-running-shoes-mens-210011#colcode=21001102
+
+Word Document:
+[Contribution Statement.docx](https://github.com/user-attachments/files/20029691/Contribution.Statement.docx)
+
+
